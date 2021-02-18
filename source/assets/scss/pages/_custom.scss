@@ -384,3 +384,30 @@ ol.lista > li.mas:before {
       border-top: 1px solid #1ec488;
     }
   }  
+
+      .resize2 {
+      border: 3px double rgb(255, 251, 251);
+      float: left;
+      height: 5em;
+      margin: .2em 1em 1em 0;
+      overflow: hidden;
+      width: 12em;
+      }
+
+      .sub-ecored {
+        h2,h3 {
+        overflow: hidden;
+        font-weight: 700;
+        }
+        
+        h2:after,h3:after {
+        content:"";
+        display: inline-block;
+        height: 0.5em;
+        vertical-align: bottom;
+        width: 100%;
+        margin-right: -100%;
+        margin-left: 10px;
+        border-top: 1px solid orange;
+        }
+        }
