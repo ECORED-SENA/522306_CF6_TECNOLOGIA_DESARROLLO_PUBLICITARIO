@@ -265,7 +265,7 @@ ol.lista > li.mas:before {
   }
 
 .bg-1{
-    background: #FFC900;
+    background:#FFBE00;
 }
 
 .quote {
@@ -411,3 +411,25 @@ ol.lista > li.mas:before {
         border-top: 1px solid orange;
         }
         }
+        .div-con-fondo{
+          background-image: (src="assets/images/pages/ilustraciones/background.png");
+          }
+
+          .contenedor{
+            position: relative;
+            display: inline-block;
+            text-align: center;
+        }
+        .texto-encima{
+            position: absolute;
+            top: 900px;
+            left: 10px;
+        }
+        .centrado{
+            position: absolute;
+            top: 145%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+          
+        
