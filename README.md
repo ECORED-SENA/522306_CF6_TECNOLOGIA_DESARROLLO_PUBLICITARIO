@@ -1,8 +1,8 @@
-# **sena-base-2021 v2.3.1**
+# **Plan de Endomarketing**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecored-sena.github.io/522306_CF6_TECNOLOGIA_DESARROLLO_PUBLICITARIO/](https://ecored-sena.github.io/522306_CF6_TECNOLOGIA_DESARROLLO_PUBLICITARIO/)
 
 #
 
