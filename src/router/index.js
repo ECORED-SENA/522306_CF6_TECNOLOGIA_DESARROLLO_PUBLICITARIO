@@ -46,12 +46,12 @@ const router = new VueRouter({
         },
       ],
     },
-    {
-      path: '/actividad/:index?',
-      name: 'actividad',
-      // component: () =>
-      //   import(/* webpackChunkName: "actividad" */ '../views/Actividad.vue'),
-    },
+    //{
+    //  path: '/actividad',
+    //  name: 'actividad',
+    //  component: () =>
+    //    import(/* webpackChunkName: "actividad" */ '../views/Actividad.vue'),
+    //},
     {
       path: '/glosario',
       name: 'glosario',
@@ -62,7 +62,7 @@ const router = new VueRouter({
     },
     //{
     //  path: '/complementario',
-    //  name: 'complementario',
+    //name: 'complementario',
     //  component: () =>
     //    import(
     //      /* webpackChunkName: "comple" */ '../../node_modules/ecored-base-pkg/src/views/Complementario.vue'

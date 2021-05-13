@@ -4,7 +4,7 @@ export default {
     descripcionCurso:
       '“El marketing, llevado al interior de la empresa, marketing de adentro hacia más adentro de la organización”, de esta forma se podría definir el endomarketing; sin embargo, en el presente componente, se ahondará desde el punto de vista de la comunicación interna, tratando de enfocarse en las relaciones que pueden existir entre los diferentes actores de una empresa.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   },
   menuPrincipal: {
     menu: [
@@ -76,12 +76,12 @@ export default {
       },
     ],
     subMenu: [
-      // {
-      //   nombreRuta: 'actividad',
-      //   icono: 'far fa-question-circle',
-      //   titulo: 'Actividad didáctica',
-      //   desarrolloContenidos: true,
-      // },
+      //{
+      //  nombreRuta: 'actividad',
+      //  icono: 'far fa-question-circle',
+      //  titulo: 'Actividad didáctica',
+      //  desarrolloContenidos: true,
+      //},
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
