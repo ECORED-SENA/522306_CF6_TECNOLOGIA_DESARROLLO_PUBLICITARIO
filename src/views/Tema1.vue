@@ -31,7 +31,7 @@
           img(src='@/assets/curso/img3.svg', style="max-width: 60%; margin: auto;")
       .col-12
         p.mt-4 En el artículo de la revista Dinero del 25 de marzo de 2017, se menciona el endomarketing como una estrategia que es partícipe del mercadeo holístico de la organización y se hace referencia a que esta estrategia es originada en las empresas de servicios:
-    .row.align-items-center.p-5.bg-color2.shadow
+    .row.align-items-center.p-5.bg-color2
       .col-lg-4
         figure
           img(src='@/assets/curso/img4.svg', style="max-width: 100%; margin: auto;")

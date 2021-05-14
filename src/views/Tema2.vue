@@ -9,10 +9,10 @@
       .h3 La comunicación interna
     .bloque-texto-a.p-4.p-md-5.mb-5.mt-5
       .row.m-0.align-items-center.justify-content-between
-        .col-lg-4.mb-4.mb-lg-0
+        .col-lg-3.mb-4.mb-lg-0
           figure
-            img(src='@/assets/curso/img6.svg', style="max-width: 60%; margin: auto;")
-        .col-lg-7
+            img(src='@/assets/curso/img6.svg', style="max-width: 90%; margin: auto;")
+        .col-lg-9
           .bloque-texto-a__texto.p-4
             p Como ya se dijo anteriormente, se centrará el tema en la comunicación hacia el interior de la empresa, una actividad cada vez más frecuente y que ha generado frutos en el desarrollo de las estrategias de marketing relacional.
     #t_2_1
@@ -126,8 +126,8 @@
           .col-6
             figure
               img(src='@/assets/curso/img16.svg', style="max-width: 70%; margin: auto;")
-        .h3.text-center Mensajes generales
-        p Son sobre todo informativos y van dirigidos a toda la comunidad sin distinción de grupo, área o departamento. Se utilizan para proporcionar información relacionada con temas de interés de toda la comunidad como circulares, normas, formatos, programas u otro tipo de dato que afecte a toda la empresa. Estos mensajes suelen ser enviados por canales directos y por lo general no requieren diseños elaborados y conceptos creativos persuasivos, a no ser que se refieran a eventos en los que participa todo el personal. En muchas ocasiones son enviados por los mismos jefes o por el departamento de comunicaciones.
+        .h3.text-center.text-white Mensajes generales
+        p.text-white Son sobre todo informativos y van dirigidos a toda la comunidad sin distinción de grupo, área o departamento. Se utilizan para proporcionar información relacionada con temas de interés de toda la comunidad como circulares, normas, formatos, programas u otro tipo de dato que afecte a toda la empresa. Estos mensajes suelen ser enviados por canales directos y por lo general no requieren diseños elaborados y conceptos creativos persuasivos, a no ser que se refieran a eventos en los que participa todo el personal. En muchas ocasiones son enviados por los mismos jefes o por el departamento de comunicaciones.
       .col-md.tarjeta.tarjeta--amarilla.p-5
         .row.justify-content-center.mb-4
           .col-6
