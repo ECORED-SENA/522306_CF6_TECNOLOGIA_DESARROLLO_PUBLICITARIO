@@ -7,7 +7,7 @@
       .titulo-principal__numero 
         .h3 2
       .h3 La comunicación interna
-    .bloque-texto-a.p-4.p-md-5.mb-5.mt-5
+    .bloque-texto-a.p-1.p-md-5.mb-5.mt-5
       .row.m-0.align-items-center.justify-content-between
         .col-lg-3.mb-4.mb-lg-0
           figure
@@ -24,7 +24,7 @@
       .col-lg-6
         figure
           img(src='@/assets/curso/img7.svg', style="max-width: 70%; margin: auto;")
-    h4 Enfoques de la comunicación interna
+    h4 2.1.1. Enfoques de la comunicación interna
     p.mb-4 Las necesidades de comunicación al interior de una empresa son diversas, de ahí que muchas organizaciones dependiendo de su tamaño tienen un equipo dedicado de forma exclusiva y permanente, al desarrollo de estrategias de comunicación dirigida a los empleados y los colaboradores.
     .row.align-items-center.mb-4
       .col-lg-5
@@ -63,12 +63,12 @@
     #t_2_2
     .titulo-segundo
       h4 2.2 Los públicos internos
-    .row.align-items-center
-      .col-lg-6
-        p Cada empresa es un mundo diferente, por lo tanto, van a presentar necesidades de información diversas, esas necesidades están ligadas a los públicos a los que se dirija la comunicación. Los públicos están directamente relacionados con el organigrama de la organización y con quienes deben generar comunicación. Por lo general, quienes más generan información o se comunican en mayor medida con los empleados, son los mandos medios que transmiten información derivada de los altos mandos y directivos; los mandos medios tienen comunicación en tres vías, hacia arriba con los directivos, hacia abajo con los operarios y en horizontal con sus pares, con quienes deben coordinar procesos.
-      .col-lg-6.mt-4.mt-lg-0
+    .row.align-items-start
+      .col-lg-7
+        p Cada organización es un mundo diferente, por lo tanto, van a presentar necesidades de información diversas, esas necesidades están ligadas a los públicos a los que se dirija la comunicación. Los públicos están directamente relacionados con el organigrama de la organización y con quienes deben generar comunicación. Por lo general, quienes más generan información o se comunican en mayor medida con los empleados, son los mandos medios que transmiten información derivada de los altos mandos y directivos; los mandos medios tienen comunicación en tres vías, hacia arriba con los directivos, hacia abajo con los operarios y en horizontal con sus pares, con quienes deben coordinar procesos.
+      .col-lg-5.mt-4.mt-lg-0
         figure
-          img(src='@/assets/curso/img9.svg', style="max-width: 60%; margin: auto;")
+          img(src='@/assets/curso/img9.svg', style="max-width: 50%; margin: auto;")
     .row.my-5.pb-5
       .col-12
         .bloque-texto-b
@@ -78,7 +78,7 @@
                 img(src='@/assets/curso/img10.svg', style="max-width: 60%; margin: auto;")
             .col-lg-8.mt-4.mt-lg-0
               p Es importante tener en cuenta de igual forma a los colaboradores externos; es decir, aquellas personas que no están de planta en la empresa pero que tienen relación directa, beneficios y la responsabilidad de hacer buen uso de la identidad, valores y filosofía de la compañía, para el caso son los vendedores, promotores, transportadores y los proveedores.
-    h4 Caracterización de los públicos internos
+    h4 2.2.1. Caracterización de los públicos internos
     p.mb-4 Si bien no es necesario hacer una segmentación tan rigurosa como se realiza con los clientes, es importante conocer algunas características de quienes van a recibir la comunicación por parte de la empresa. Para caracterizar esta población se van a aplicar variables propias de una base de datos: nombre, edad, género, cargo que ocupa, nivel educativo, estado civil, número de hijos y personas con quien convive. En muchas empresas es dado el hacer visitas domiciliarias por parte del departamento de talento humano, para conocer las condiciones de vivienda de sus empleados y este tipo de visitas pueden suministrar información muy relevante para el desarrollo de la comunicación interna. 
     p.mb-5 Por lo anterior, en la caracterización del público interno es necesario tener en cuenta las siguientes variables:
     .row.justify-content-center
@@ -190,7 +190,7 @@
               img(src='@/assets/curso/img23.svg', style="max-width: 60%; margin: auto;")
           .col-md-6.mb-4.mb-md-0
             .h4 No medir efectividad
-            p Un plan correcto debería garantizar que con cierto número de mensajes se llegue al público seleccionado de forma clara y directa, la sobrecarga puede afectar la credibilidad y el interés por la comunicación en general.
+            p La medición de comunicación es indispensable para determinar si los medios utilizados fueron los adecuados y el mensaje es comprensible; este tipo de mediciones se pueden realizar a través de mecanismos de #[i feedback]. Es importante tener claros los indicadores que se van a medir en cada comunicación.
       .py-3.py-md-4(titulo="Incorrecta selección de los medios")
         .row.align-items-center
           .col-md-6
@@ -198,7 +198,7 @@
               img(src='@/assets/curso/img24.svg', style="max-width: 60%; margin: auto;")
           .col-md-6.mb-4.mb-md-0
             .h4 Incorrecta selección de los medios
-            p La medición de comunicación es indispensable para determinar si los medios utilizados fueron los adecuados y el mensaje es comprensible; este tipo de mediciones se pueden realizar a través de mecanismos de feedback. Es importante tener claros los indicadores que se van a medir en cada comunicación.
+            p Los canales por los que el mensaje debe llegar al público, son muy importantes para garantizar la efectividad de la comunicación, ya que un canal inadecuado puede generar una entrega errónea del mensaje.
       .py-3.py-md-4(titulo="Saturación de mensajes")
         .row.align-items-center
           .col-md-6
@@ -206,7 +206,7 @@
               img(src='@/assets/curso/img25.svg', style="max-width: 60%; margin: auto;")
           .col-md-6.mb-4.mb-md-0
             .h4 Saturación de mensajes
-            p Los canales por los que el mensaje debe llegar al público, son muy importantes para garantizar la efectividad de la comunicación, ya que un canal inadecuado puede generar una entrega errónea del mensaje.
+            p Un plan correcto debería garantizar que con cierto número de mensajes se llegue al público seleccionado de forma clara y directa, la sobrecarga puede afectar la credibilidad y el interés por la comunicación en general.
       .py-3.py-md-4(titulo="No contar con recursos")
         .row.align-items-center
           .col-md-6

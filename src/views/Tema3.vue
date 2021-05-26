@@ -122,7 +122,7 @@
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0
             .h4 Redes sociales corporativas
-            p Son plataformas cada vez más utilizada y donde tienen mayor éxito de adhesión es en las empresas más flexibles, horizontales o con metodologías ágiles. La principal ventaja como herramienta de comunicación es la multidireccionalidad, la inmediatez y la posibilidad que brinda de generar redes de trabajo que permiten interacción laboral, social y lúdica. Además, estas redes no solo permitirían mejorar resultados, sino que podrían impactar positivamente en las relaciones y en el clima laboral. Ahora bien, lo que permite, en definitiva, es comunicarse, cooperar y crear comunidad.
+            p Son plataformas cada vez más utilizadas y donde tienen mayor éxito de adhesión es en las empresas más flexibles, horizontales o con metodologías ágiles. La principal ventaja como herramienta de comunicación es la multidireccionalidad, la inmediatez y la posibilidad que brinda de generar redes de trabajo que permiten interacción laboral, social y lúdica. Además, estas redes no solo permitirían mejorar resultados, sino que podrían impactar positivamente en las relaciones y en el clima laboral. Ahora bien, lo que permite, en definitiva, es comunicarse, cooperar y crear comunidad.
           .col-md-6
             figure
               img(src='@/assets/curso/img41.svg', style="max-width: 60%; margin: auto;")

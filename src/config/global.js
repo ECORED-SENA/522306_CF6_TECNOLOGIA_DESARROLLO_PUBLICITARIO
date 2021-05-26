@@ -118,54 +118,26 @@ export default {
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
+        centro: 'Centro industrial del diseño y la manufactura',
+        regional: 'Regional santander',
       },
       {
-        nombre: 'Astrid Lili Puerta',
-        cargo: 'Experta temática',
-        centro: 'Centro Agropecuario de Buga',
-        regional: 'Regional valle',
-      },
-      {
-        nombre: 'Javier Enrique Santana',
+        nombre: 'Manuel Augusto Arias López',
         cargo: 'Experto temático',
-        centro: 'Centro de Gestión Industrial',
-        regional: 'Regional Distrito Capital',
+        centro: 'Centro de comercio y servicios',
+        regional: 'Regional quindío',
       },
       {
-        nombre: 'Michael Andrés Cortés Caro',
-        cargo: 'Experto temático',
-        centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
-      },
-      {
-        nombre: 'Mauricio Jiménez Fajardo',
-        cargo: 'Experto temático',
-        centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
-      },
-      {
-        nombre: 'Manuel Alejandro Garzón Cárdenas',
-        cargo: 'Experto temático',
-        centro: 'Deutsche Gesellschaft für',
-        regional: 'Internationale Zusammenarbeit (GIZ)',
-      },
-      {
-        nombre: 'Liliana Victoria Morales Gualdrón',
+        nombre: 'Andrés Felipe Velandia Espitia',
         cargo: 'Diseñador instruccional',
-        centro: 'Centro para la Industria y la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
+        centro: 'Centro de diseño y metrología',
+        regional: 'Regional distrito capital',
       },
       {
-        nombre: 'Carlos Andrés Rodríguez',
-        cargo: 'Evaluador instruccional',
-        centro: 'Centro de Diseño y Metrología',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Julieth Paola Vital López',
-        cargo: 'Revisora de estilo',
-        centro: 'Centro para la Industria de la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
+        nombre: 'Vilma Lucía Perilla Méndez',
+        cargo: 'Evaluadora instruccional',
+        centro: 'Centro de gestión industrial',
+        regional: 'Regional distrito capital',
       },
     ],
     desarrolloProducto: [
@@ -178,22 +150,46 @@ export default {
         cargo: 'Soporte organizacional',
       },
       {
-        nombre: ['Adriana Rincón Avendaño', 'Eulises Orduz Amezquita'],
+        nombre: [
+          'Adriana Rincón Avendaño',
+          'Antonio Vecino Valero',
+          'Maria Camila Ovalle Ospina',
+          'Martha Isabel Martínez Vargas',
+          'Víctor Raúl Cárdenas Cáceres',
+          'Yazmin Rocio Figueroa Pacheco',
+          'Yenny patricia Ulloa Villamizar',
+        ],
         cargo: 'Diseño web y Producción Audiovisual',
       },
       {
-        nombre: 'Edward Leonardo Pico Cabra',
+        nombre: ['Daniel Ricardo Mutis Gómez', 'Jorge Leonardo Camacho Pardo'],
         cargo: 'Desarrollo Front-End',
+      },
+      {
+        nombre: 'Jhana Johanna Bustillo Ardila',
+        cargo: 'Revisora de contenidos',
       },
       {
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
+      {
+        nombre: 'Jhon Jairo Urueta Alvarez',
+        cargo: 'Desarrollo Front-End',
+        centro: 'Centro de comercio y servicios',
+        regional: 'Regional Tolima',
+      },
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Brayan Stiven Pinto Diaz',
-        cargo: ['Desarrollo front-end', 'Validación de recursos'],
+        nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: 'Validación y vinculación en plataforma LMS',
+      },
+      {
+        nombre: ['Brayan Steven Pinto Diaz', 'Ricardo Alfonso González Vargas'],
+        cargo: 'Vinculación de recursos',
+      },
+      {
         centro: 'Centro de comercio y servicios',
         regional: 'Regional Tolima',
       },
@@ -269,7 +265,7 @@ export default {
     {
       termino: 'Sitio web',
       significado:
-        'Agrupación de varias páginas web relacionadas entre sí, a las cuales se ingresa desde un mismo dominio y están ligadas a una misma URL.que se representa según su altura y su anchura y no su profundidad.',
+        'Agrupación de varias páginas web relacionadas entre sí, a las cuales se ingresa desde un mismo dominio y están ligadas a una misma URL.',
     },
   ],
   complementario: [
