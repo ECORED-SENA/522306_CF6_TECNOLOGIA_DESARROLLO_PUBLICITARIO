@@ -7,7 +7,7 @@
       .titulo-principal__numero 
         .h3 2
       .h3 La comunicación interna
-    .bloque-texto-a.p-1.p-md-5.mb-5.mt-5
+    .bloque-texto-a.p-2.p-md-3.mb-5.mt-5
       .row.m-0.align-items-center.justify-content-between
         .col-lg-3.mb-4.mb-lg-0
           figure
@@ -33,8 +33,8 @@
       .col-lg-7
         p.mt-4.mt-lg-0 La comunicación interna puede tener varios enfoques, de acuerdo con las necesidades de información que presente el público interno de una empresa. Uno muy común es el relacionado con las funciones en cada uno de los cargos; en este sentido, hay un trabajo arduo en comunicación que va desde el diseño de manuales de funciones, hasta estrategias de motivación para generar eficiencia. Otro enfoque es el relacionado con la entrega de valor de la empresa en el mercado; es decir, todo lo concerniente con la función de la empresa en el mercado, el aporte a la sociedad y las razones por las que los clientes compran o usan sus productos o servicios. Un tercer enfoque es el relacionado con lo institucional; este tiene que ver con los programas de bienestar empresarial y con los procesos administrativos, los sistemas de calidad, los formatos y los protocolos. 
     p.mb-5 Teniendo en cuenta lo anterior, la comunicación interna tiene una serie de funciones que se describirán a continuación:
-    .row.justify-content-end.mb-5
-      .col-11
+    .row.justify-content-center.mb-5
+      .col-10
         ul.lista-ul--separador
           li 
             i.fas.fa-caret-right(style="color:#7D6EB2")
@@ -63,12 +63,12 @@
     #t_2_2
     .titulo-segundo
       h4 2.2 Los públicos internos
-    .row.align-items-start
-      .col-lg-7
+    .row.align-items-center
+      .col-lg-8
         p Cada organización es un mundo diferente, por lo tanto, van a presentar necesidades de información diversas, esas necesidades están ligadas a los públicos a los que se dirija la comunicación. Los públicos están directamente relacionados con el organigrama de la organización y con quienes deben generar comunicación. Por lo general, quienes más generan información o se comunican en mayor medida con los empleados, son los mandos medios que transmiten información derivada de los altos mandos y directivos; los mandos medios tienen comunicación en tres vías, hacia arriba con los directivos, hacia abajo con los operarios y en horizontal con sus pares, con quienes deben coordinar procesos.
-      .col-lg-5.mt-4.mt-lg-0
+      .col-lg-4.mt-4.mt-lg-0
         figure
-          img(src='@/assets/curso/img9.svg', style="max-width: 50%; margin: auto;")
+          img(src='@/assets/curso/img9.svg', style="max-width: 200px; margin: auto;")
     .row.my-5.pb-5
       .col-12
         .bloque-texto-b

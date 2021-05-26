@@ -123,7 +123,7 @@ export default {
       },
       {
         nombre: 'Manuel Augusto Arias López',
-        cargo: 'Experto temático',
+        cargo: 'Instructor - Experto temático',
         centro: 'Centro de comercio y servicios',
         regional: 'Regional quindío',
       },
@@ -150,15 +150,7 @@ export default {
         cargo: 'Soporte organizacional',
       },
       {
-        nombre: [
-          'Adriana Rincón Avendaño',
-          'Antonio Vecino Valero',
-          'Maria Camila Ovalle Ospina',
-          'Martha Isabel Martínez Vargas',
-          'Víctor Raúl Cárdenas Cáceres',
-          'Yazmin Rocio Figueroa Pacheco',
-          'Yenny patricia Ulloa Villamizar',
-        ],
+        nombre: ['Antonio Vecino Valero', 'Martha Isabel Martínez Vargas'],
         cargo: 'Diseño web y Producción Audiovisual',
       },
       {
@@ -184,12 +176,6 @@ export default {
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-      },
-      {
-        nombre: ['Brayan Steven Pinto Diaz', 'Ricardo Alfonso González Vargas'],
-        cargo: 'Vinculación de recursos',
-      },
-      {
         centro: 'Centro de comercio y servicios',
         regional: 'Regional Tolima',
       },

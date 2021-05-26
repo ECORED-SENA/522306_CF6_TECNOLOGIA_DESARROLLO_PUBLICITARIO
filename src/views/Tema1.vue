@@ -21,7 +21,10 @@
               figure
                 img(src='@/assets/curso/img2.svg', style="max-width: 60%; margin: auto;")
             .col-lg-8.mt-4.mt-lg-0
-              .bloque-texto-b__texto.h3.mb-0 “Siempre he creído que la forma en la que tratas a tus empleados es la forma en la que ellos tratarán a tus clientes y que las personas florecen cuando se les alaba. Cuando tratamos bien a otras personas, estas tenderán a tratarnos de la misma forma, sean clientes o empleados, un empleado además puede ser un futuro cliente”.
+              .bloque-texto-b__texto
+                i.fas.fa-quote-left
+                span.p.mb-0 Siempre he creído que la forma en la que tratas a tus empleados es la forma en la que ellos tratarán a tus clientes y que las personas florecen cuando se les alaba. Cuando tratamos bien a otras personas, estas tenderán a tratarnos de la misma forma, sean clientes o empleados, un empleado además puede ser un futuro cliente
+                i.fas.fa-quote-right
     .row.mb-5.align-items-center
       .col-lg-8
         p.mb-4 En una organización, la relación existente entre los miembros de ella, es el reflejo de lo que se hace con los clientes; pues un empleado satisfecho con el trato recibido, el salario y la buena relación con sus compañeros, recibirá a los clientes expresando esa satisfacción con una sonrisa y un trato amable; pero lo más importante, ese empleado va a hablar bien de su empresa, del producto que fabrican o del servicio que prestan y va a usar todos sus argumentos y conocimientos para ponerlos por encima de la competencia.
