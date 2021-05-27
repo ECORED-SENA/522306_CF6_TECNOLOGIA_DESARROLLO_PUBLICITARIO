@@ -11,7 +11,7 @@
       .row.m-0.align-items-center.justify-content-between
         .col-lg-3.mb-4.mb-lg-0
           figure
-            img(src='@/assets/curso/img6.svg', style="max-width: 90%; margin: auto;")
+            img(src='@/assets/curso/img6.svg', style="max-width: 70%; margin: auto;")
         .col-lg-9
           .bloque-texto-a__texto.p-4
             p Como ya se dijo anteriormente, se centrará el tema en la comunicación hacia el interior de la empresa, una actividad cada vez más frecuente y que ha generado frutos en el desarrollo de las estrategias de marketing relacional.
