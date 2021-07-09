@@ -5,8 +5,8 @@
 
     .titulo-principal
       .titulo-principal__numero 
-        .h3 1
-      .h3 Endomarketing
+        span 1
+      h1 Endomarketing
     .row.align-items-center
       .col-lg-7
         p El endomarketing basa su estructura en el desarrollo de estrategias que permitan que los empleados de la empresa tengan sentido de pertenencia y que se conviertan en promotores de sus productos o servicios, aun estando en horarios no laborales o así sus obligaciones contractuales no tengan nada que ver con las ventas o la promoción. Esto se resume en una frase que el empresario Richard Branson tiene dentro de sus más célebres y que traza parte de su actuar como CEO de sus organizaciones:

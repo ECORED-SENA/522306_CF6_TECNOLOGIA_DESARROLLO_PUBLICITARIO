@@ -109,78 +109,6 @@ export default {
       },
     ],
   },
-  creditos: {
-    liderEquipo: {
-      nombre: 'Maria Camila Garcia Santamaria',
-      cargo: 'Líder del equipo',
-    },
-    contenidoInstruccional: [
-      {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
-        centro: 'Centro industrial del diseño y la manufactura',
-        regional: 'Regional santander',
-      },
-      {
-        nombre: 'Manuel Augusto Arias López',
-        cargo: 'Instructor - Experto temático',
-        centro: 'Centro de comercio y servicios',
-        regional: 'Regional quindío',
-      },
-      {
-        nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Diseñador instruccional',
-        centro: 'Centro de diseño y metrología',
-        regional: 'Regional distrito capital',
-      },
-      {
-        nombre: 'Vilma Lucía Perilla Méndez',
-        cargo: 'Evaluadora instruccional',
-        centro: 'Centro de gestión industrial',
-        regional: 'Regional distrito capital',
-      },
-    ],
-    desarrolloProducto: [
-      {
-        nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
-      },
-      {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-      },
-      {
-        nombre: ['Antonio Vecino Valero', 'Martha Isabel Martínez Vargas'],
-        cargo: 'Diseño web y Producción Audiovisual',
-      },
-      {
-        nombre: ['Daniel Ricardo Mutis Gómez', 'Jorge Leonardo Camacho Pardo'],
-        cargo: 'Desarrollo Front-End',
-      },
-      {
-        nombre: 'Jhana Johanna Bustillo Ardila',
-        cargo: 'Revisora de contenidos',
-      },
-      {
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Jhon Jairo Urueta Alvarez',
-        cargo: 'Desarrollo Front-End',
-        centro: 'Centro de comercio y servicios',
-        regional: 'Regional Tolima',
-      },
-    ],
-    gestoresRepositorio: [
-      {
-        nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de comercio y servicios',
-        regional: 'Regional Tolima',
-      },
-    ],
-  },
   referencias: [
     {
       referencia:
@@ -261,4 +189,118 @@ export default {
       link: 'https://www.google.com/',
     },
   ],
+  creditos: {
+    liderEquipo: [
+      {
+        nombre: 'Maria Camila Garcia Santamaria',
+        cargo: 'Líder del equipo',
+        centro: 'Dirección General',
+      },
+    ],
+    contenidoInstruccional: [
+      {
+        nombre: 'Rafael Neftalí Lizcano Reyes',
+        cargo: 'Asesor metodológico y pedagógico',
+        centro:
+          'Centro industrial del diseño y la manufactura Regional santander',
+      },
+      {
+        nombre: 'Manuel Augusto Arias López',
+        cargo: 'Instructor - Experto temático',
+        centro: 'Centro de comercio y servicios Regional quindío',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Diseñador instruccional',
+        centro: 'Centro de diseño y metrología Regional distrito capital',
+      },
+      {
+        nombre: 'Vilma Lucía Perilla Méndez',
+        cargo: 'Evaluadora instruccional',
+        centro: 'Centro de gestión industrial Regional distrito capital',
+      },
+    ],
+    desarrolloProducto: [
+      {
+        nombre: 'Francisco José Lizcano Reyes',
+        cargo: 'Responsable del equipo',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Leyson Fabian Castaño Perez',
+        cargo: 'Soporte organizacional',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Jesús Antonio Vecino Valero',
+        cargo: 'Diseño web',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Martha Isabel Martínez Vargas',
+        cargo: 'Diseño web',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Daniel Ricardo Mutis Gómez',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Jorge Leonardo Camacho Pardo',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Jhon Jairo Urueta Alvarez',
+        cargo: 'Desarrollo Front-End',
+        centro: 'Centro de comercio y servicios Regional Tolima',
+      },
+      /*{
+        nombre: 'Nombre',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },*/
+      {
+        nombre: 'Jhana Johanna Bustillo Ardila',
+        cargo: 'Validación de diseño y contenido',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+    ],
+    gestoresRepositorio: [
+      {
+        nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+    ],
+  },
+  // creditosInicio: [
+  //   {
+  //     titulo: 'En alianza',
+  //     contenido: [
+  //       require('@/assets/template/logo-sena-naranja.svg'),
+  //       require('@/assets/template/mintic.jpg'),
+  //       require('@/assets/template/minsalud.jpg'),
+  //     ],
+  //   },
+  //   {
+  //     titulo: 'En compañía',
+  //     contenido: [
+  //       require('@/assets/template/presidencia.jpg'),
+  //       require('@/assets/template/ecopetrol.jpg'),
+  //     ],
+  //   },
+  //   {
+  //     titulo: 'Una iniciativa',
+  //     contenido: [require('@/assets/template/santander.jpg')],
+  //   },
+  // ],
 }

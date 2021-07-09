@@ -12,12 +12,12 @@ const router = new VueRouter({
       name: 'inicio',
       component: Inicio,
     },
-    //{
-    //  path: '/introduccion',
-    //  name: 'introduccion',
-    //  component: () =>
-    //    import(/* webpackChunkName: "intro" */ '../views/Introduccion.vue'),
-    //},
+    /*{
+      path: '/introduccion',
+      name: 'introduccion',
+      component: () =>
+        import(/* webpackChunkName: "intro" / '../views/Introduccion.vue'),
+    },*/
     {
       path: '/curso',
       name: 'curso',
@@ -45,13 +45,13 @@ const router = new VueRouter({
             import(/* webpackChunkName: "tema3" */ '../views/Tema3.vue'),
         },
       ],
-    },
-    //{
-    //  path: '/actividad',
-    //  name: 'actividad',
-    //  component: () =>
-    //    import(/* webpackChunkName: "actividad" */ '../views/Actividad.vue'),
-    //},
+    } /*
+    {
+      path: '/actividad',
+      name: 'actividad',
+      component: () =>
+        import(/* webpackChunkName: "actividad" */, //'../views/Actividad.vue'),
+    /*},*/
     {
       path: '/glosario',
       name: 'glosario',
@@ -60,14 +60,14 @@ const router = new VueRouter({
           /* webpackChunkName: "glosario" */ '../../node_modules/ecored-base-pkg/src/views/Glosario.vue'
         ),
     },
-    //{
-    //  path: '/complementario',
-    //name: 'complementario',
-    //  component: () =>
-    //    import(
-    //      /* webpackChunkName: "comple" */ '../../node_modules/ecored-base-pkg/src/views/Complementario.vue'
-    //    ),
-    //},
+    {
+      path: '/complementario',
+      name: 'complementario',
+      component: () =>
+        import(
+          /* webpackChunkName: "comple" */ '../../node_modules/ecored-base-pkg/src/views/Complementario.vue'
+        ),
+    },
     {
       path: '/referencias',
       name: 'referencias',

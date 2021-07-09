@@ -5,8 +5,8 @@
     
     .titulo-principal
       .titulo-principal__numero 
-        .h3 2
-      .h3 La comunicación interna
+        span 2
+      h1 La comunicación interna
     .bloque-texto-a.p-2.p-md-3.mb-5.mt-5
       .row.m-0.align-items-center.justify-content-between
         .col-lg-3.mb-4.mb-lg-0
@@ -17,7 +17,7 @@
             p Como ya se dijo anteriormente, se centrará el tema en la comunicación hacia el interior de la empresa, una actividad cada vez más frecuente y que ha generado frutos en el desarrollo de las estrategias de marketing relacional.
     #t_2_1
     .titulo-segundo
-      h4 2.1 ¿Qué es la comunicación interna?
+      h2 2.1 ¿Qué es la comunicación interna?
     .row.align-items-center.mb-5
       .col-lg-6
         p.mb-4.mb-lg-0 Para dar un primer acercamiento a la comunicación interna según la Guía fundamental de la comunicación interna (2018), es necesario poner un contexto, ya que para algunos expertos en marketing está en manos de las relaciones públicas, toda vez que el target al que se dirige tiene características similares en cuanto a sus intereses y algunas de sus prioridades y una misma identidad social que gira entorno a la empresa en la que se labora; diversos estudios empíricos explicitan que, cuanto mejor informada está una persona, más motivada estará para realizar su trabajo de manera correcta y eficazmente, porque comprenderá y asignará mayor sentido a sus tareas.
@@ -62,7 +62,7 @@
             | Genera motivación y un clima organizacional cordial y ameno.
     #t_2_2
     .titulo-segundo
-      h4 2.2 Los públicos internos
+      h2 2.2 Los públicos internos
     .row.align-items-center
       .col-lg-8
         p Cada organización es un mundo diferente, por lo tanto, van a presentar necesidades de información diversas, esas necesidades están ligadas a los públicos a los que se dirija la comunicación. Los públicos están directamente relacionados con el organigrama de la organización y con quienes deben generar comunicación. Por lo general, quienes más generan información o se comunican en mayor medida con los empleados, son los mandos medios que transmiten información derivada de los altos mandos y directivos; los mandos medios tienen comunicación en tres vías, hacia arriba con los directivos, hacia abajo con los operarios y en horizontal con sus pares, con quienes deben coordinar procesos.
@@ -78,7 +78,7 @@
                 img(src='@/assets/curso/img10.svg', style="max-width: 60%; margin: auto;")
             .col-lg-8.mt-4.mt-lg-0
               p Es importante tener en cuenta de igual forma a los colaboradores externos; es decir, aquellas personas que no están de planta en la empresa pero que tienen relación directa, beneficios y la responsabilidad de hacer buen uso de la identidad, valores y filosofía de la compañía, para el caso son los vendedores, promotores, transportadores y los proveedores.
-    h4 2.2.1. Caracterización de los públicos internos
+    h3 2.2.1. Caracterización de los públicos internos
     p.mb-4 Si bien no es necesario hacer una segmentación tan rigurosa como se realiza con los clientes, es importante conocer algunas características de quienes van a recibir la comunicación por parte de la empresa. Para caracterizar esta población se van a aplicar variables propias de una base de datos: nombre, edad, género, cargo que ocupa, nivel educativo, estado civil, número de hijos y personas con quien convive. En muchas empresas es dado el hacer visitas domiciliarias por parte del departamento de talento humano, para conocer las condiciones de vivienda de sus empleados y este tipo de visitas pueden suministrar información muy relevante para el desarrollo de la comunicación interna. 
     p.mb-5 Por lo anterior, en la caracterización del público interno es necesario tener en cuenta las siguientes variables:
     .row.justify-content-center
@@ -112,7 +112,7 @@
             p Los grupos suelen cambiar en cuanto a su composición, actitudes y comportamientos.
     #t_2_3
     .titulo-segundo
-      h4 2.3 Mensajes en la comunicación interna
+      h2 2.3 Mensajes en la comunicación interna
     .row.align-items-center.mb-4
       .col-lg-6
         p.mb-4.mb-lg-0 Como en toda estrategia o plan de comunicación, el mensaje en la comunicación interna es un elemento fundamental para llevar la información de una forma clara y concreta, en el momento adecuado al público objetivo seleccionado. Dentro de su desarrollo se pueden diferenciar dos tipos: la comunicación operativa que tiene que ver con todo el proceso y desarrollo de procesos y protocolos de la organización, así como la comunicación corporativa, que implica un mayor despliegue creativo toda vez que se encarga de informar acerca de eventos, novedades en el personal, instalaciones, infraestructura, entre otros y datos relacionados con la cultura empresarial.
@@ -146,7 +146,7 @@
               p Es importante tener claro que independiente del tipo de mensaje que se genere, la información y la manera como se entregue debe proporcionar credibilidad; este factor implica que los empleados poco a poco tengan mayor confianza en la organización y en sus directivos. Por último, la información que se proporcione debe llegar en momentos claves y de acuerdo a una programación estructurada con las características de los diferentes grupos. Es clave entender en qué horario el público está en disposición de recibir y atender un mensaje, esto implica también que algunos medios permiten una interacción inmediata y otros lapsos más prolongados entre la emisión y la respuesta. Es importante que quien genere la información tenga claro el horario laboral y el familiar para la entrega de la información.
     #t_2_4
     .titulo-segundo
-      h4 2.4 Rutas de la información interna
+      h2 2.4 Rutas de la información interna
     p.mb-5 Hoy la premisa es que el personal debe estar más y mejor informado, esto implica que la comunicación se dé a través de varias rutas y con el apoyo de todos los formatos posibles: escritos, audiovisuales, presenciales, etc. Las rutas de la información tienen un alto nivel de relevancia en el proceso de comunicación interna, encontrando:
     .row.justify-content-center
       .col-lg-9.mb-5
@@ -172,7 +172,7 @@
             p Se da entre homólogos de diferentes departamentos de la empresa o mandos medios que están en el mismo nivel jerárquico. La comunicación entre departamentos es muy beneficiosa para mejorar la eficiencia de la compañía y optimizar los procesos; permite la generación de conocimiento y el desarrollo de innovación, mejora el clima organizacional y el proceso de comunicación en las demás rutas.
     #t_2_5
     .titulo-segundo
-      h4 2.5 Errores y obstáculos de la comunicación interna
+      h2 2.5 Errores y obstáculos de la comunicación interna
     p.mb-5 En todo proceso de comunicación es necesario seguir un norte y realizar un proceso con una planificación bien estructurada. Puede tenerse la sensación que por tratarse de comunicación interna se puede omitir la planeación y es por tal motivo que se cae en estos errores comunes:
     TabsC
       .py-3.py-md-4(titulo="No tener una estrategia")

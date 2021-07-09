@@ -5,8 +5,8 @@
 
     .titulo-principal
       .titulo-principal__numero 
-        .h3 3
-      .h3 Plan de comunicación interna
+        span 3
+      h1 Plan de comunicación interna
     p.mb-4 Cuando la empresa es consciente que debe tener claro el sistema de información desde y hacia sus empleados y colaboradores y la importancia que este proceso tiene para el desarrollo de la empresa, es entonces que se debe implementar un plan de comunicación interna; como todo plan debe tener una estructura y una ruta muy bien establecida para generar la mejor calidad de información posible.
     p.mb-5 Un plan de comunicación interna debe integrar los siguientes elementos:
     .row.justify-content-center
@@ -75,7 +75,7 @@
             p Es importante contar con un sistema de feedback que permita medir la respuesta de los empleados y colaboradores a la comunicación interna de la empresa.
     #t_3_1
     .titulo-segundo
-      h4 3.1 Medios para la comunicación interna
+      h2 3.1 Medios para la comunicación interna
     p.mb-5 El desarrollo de cualquier proceso de comunicación implica la selección e implementación de una plataforma de medios acorde con las características del mercado y en este caso con la infraestructura de la empresa u organización. Siendo así, es importante conocer los medios más adecuados para el desarrollo de la comunicación interna en una empresa, teniendo en cuenta lo descrito por Cuenca y Verazzi (2018):
     TabsC
       .py-3.py-md-4(titulo="Intranet")
